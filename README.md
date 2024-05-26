@@ -20,9 +20,10 @@
 4. Click "Load unpacked" and select the directory where you cloned/downloaded **changeRuk**.
 
 ## Usage
-1. Once the extension is installed, open a YouTube video in a tab.
-2. Switch to another tab, and the YouTube video will automatically pause.
-3. Return to the YouTube tab, and the video will resume playing.
+1. Once the extension is installed, pin it to the browser, open a YouTube video in a tab.
+2. Then toggle the button after clicking on the pinned extension to enable the extension and finally reload the YouTube video.
+3. Switch to another tab, and the YouTube video will automatically pause.
+4. Return to the YouTube tab, and the video will resume playing.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
