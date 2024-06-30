@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   toggleButton.addEventListener('change', function() {
     chrome.storage.sync.set({ enabled: toggleButton.checked }, function() {
-      // You can add additional functionality here, if needed
+      // Here, you can add additional functionality here, if needed
     });
   });
 });
