@@ -2,7 +2,7 @@
 
 ## Overview
 
-**changeRuk** is a Chrome extension designed to enhance your YouTube viewing experience. It automatically pauses YouTube videos when you switch to a different browser tab and resumes playback as soon as you return. This ensures that you never miss a moment of your video content, providing a seamless and intuitive user experience.
+**changeRuk** is a **Chrome extension** designed to enhance your YouTube viewing experience. It automatically pauses YouTube videos when you switch to a different browser tab and resumes playback as soon as you return. This ensures that you **never miss a moment of your youtube video content**, providing a seamless and intuitive user experience.
 
 ## Features
 
