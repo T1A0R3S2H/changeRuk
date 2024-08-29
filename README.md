@@ -14,7 +14,7 @@
 
 1. Clone or download the repository.
    ```bash
-   git clone https://github.com/yourusername/changeRuk.git
+   git clone https://github.com/T1A0R3S2H/changeRuk.git
 2. Open Chrome and navigate to chrome://extensions/.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 4. Click "Load unpacked" and select the directory where you cloned/downloaded **changeRuk**.
